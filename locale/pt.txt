@@ -1,0 +1,137 @@
+#: locale=pt
+
+## E-Learning
+
+### Answer
+questionOption_D47D87EC_C78C_70E7_41E1_6E0B0D523ED3.text =  As urnas funerárias Tupi eram destinadas exclusivamente aos líderes espirituais da tribo, servindo como símbolos de sua conexão com os ancestrais e o mundo espiritual.A
+questionOption_D4E7AE80_C78C_7320_41C1_20B79274E9C8.text = A cerâmica fina deste período era geralmente destinada à aristocracia e à burguesia europeia, usada em eventos formais e como itens de luxo para decoração de interiores.
+questionOption_D451A38C_C78C_7127_41C3_6EABFB933164.text = As urnas funerárias Tupi eram usadas para armazenar os corpos de guerreiros mortos em batalha, sendo enterradas em locais sagrados para homenagear sua bravura.
+questionOption_D47795E5_C78C_70E1_4196_153510B401E3.text = As urnas funerárias Tupi eram utilizadas para enterrar membros da comunidade, incluindo crianças e adultos, sendo colocadas em cemitérios próximos às aldeias como parte dos rituais de sepultamento.
+questionOption_D397A49D_C784_3720_416D_DE8B6A4C5784.text = As urnas funerárias de cerâmica eram usadas para armazenar as cinzas dos mortos após a cremação, uma prática comum na região durante períodos específicos da história.
+questionOption_D461B287_C784_3321_41E8_CAF219902732.text = As urnas funerárias de cerâmica eram utilizadas exclusivamente para enterrar membros da elite da comunidade, refletindo a hierarquia social da época.
+questionOption_D38136D6_C784_3323_41E4_EE25CE450E00.text = As urnas funerárias de cerâmica serviam para enterrar os mortos de maneira geral, independentemente da classe social, refletindo práticas funerárias coletivas e comunitárias.
+questionOption_D32C8C59_C78C_7721_41E2_209D8B34C1F8.text = Esta cerâmica foi produzida em massa para uso doméstico comum, principalmente em cozinhas e áreas de serviço, sendo exportada para várias partes do mundo.
+questionOption_D4EE50EB_C78C_50E1_41D3_E47CC44981B7.text = Fabricada como objetos de culto religioso, a cerâmica fina desse período era frequentemente usada em cerimônias e rituais sagrados em diversas regiões da Europa.
+
+### Question
+question_D4FCF872_C785_DFE3_41C3_7D88ECEC5FEA.title = Qual das alternativas a seguir melhor descreve a função e o uso histórico das urnas funerárias de cerâmica encontradas em Iguape, no interior de São Paulo?
+question_D47D9C21_C784_3761_41D9_AFB0696239A5.title = Qual das alternativas a seguir melhor descreve a origem e o uso da cerâmica fina fabricada no período de 1790 a 1880 na Europa, que está exposta no Museu de Iguape?
+question_D338ECB9_C78C_F761_41C5_531089F61568.title = Qual das alternativas a seguir melhor descreve o uso e a importância das urnas funerárias na cultura Tupi?
+
+### Question Screen
+quizQuestion_D422B82A_C68D_E49B_41B0_A19495E775E9.ok = OK
+
+### Report Screen
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.title = - SCORE -
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.completion = Completed
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.questionsCorrect = Correct
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.downloadCSV = Download .csv
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.questionsIncorrect = Incorrect
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.items = Items Found
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.questions = Questions
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.repeat = Repeat
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.submitToLMS = Submit
+quizScore_D422A82A_C68D_E49B_41B0_249DFB06CD67.elapsedTime = Time
+
+### Score Name
+score1.label = Pontuação
+
+### Timeout Screen
+quizTimeout_D422882A_C68D_E49B_41E6_19B7323D47A5.title = - TIMEOUT -
+quizTimeout_D422882A_C68D_E49B_41E6_19B7323D47A5.repeat = Repeat
+quizTimeout_D422882A_C68D_E49B_41E6_19B7323D47A5.score = View Score
+
+## Media
+
+### Audio
+audiores_DBC82F19_C78C_3121_41E7_C7F1B75CCDB9.mp3Url = media/audio_DD8BC8BF_C784_5F61_41E6_F919C5C0AF4D_pt.mp3
+
+### Audio Subtitles
+
+### Image
+imlevel_DB413521_C79C_D160_41D9_4D9FBBEBBBAA.url = media/popup_DA231369_C784_51E1_41DC_F3AA755564C8_pt_0_0.jpg
+imlevel_DB423521_C79C_D160_41CA_8F33CD1F752E.url = media/popup_DA231369_C784_51E1_41DC_F3AA755564C8_pt_0_1.jpg
+imlevel_DB424522_C79C_D160_41DC_33D13DCE0B85.url = media/popup_DA231369_C784_51E1_41DC_F3AA755564C8_pt_0_2.jpg
+imlevel_DB490316_C79C_D123_41E8_93C08D5FEF45.url = media/popup_DB234081_C784_CF21_41E7_1D2E6B371E10_pt_0_0.jpg
+imlevel_DB4A0317_C79C_D121_41E1_E192D5D4D650.url = media/popup_DB234081_C784_CF21_41E7_1D2E6B371E10_pt_0_1.jpg
+imlevel_DB4A1317_C79C_D121_41DF_79AF719C09C9.url = media/popup_DB234081_C784_CF21_41E7_1D2E6B371E10_pt_0_2.jpg
+imlevel_DB5AB69D_C79C_D321_41DC_9572D96839C1.url = media/popup_DB249DEC_C78C_30E7_41E5_216A7FF83E0E_pt_0_0.jpg
+imlevel_DB5AC69D_C79C_D321_41D7_4D66D7DF58BF.url = media/popup_DB249DEC_C78C_30E7_41E5_216A7FF83E0E_pt_0_1.jpg
+imlevel_DB5AE69E_C79C_D323_41DF_ACFB8F1701D0.url = media/popup_DB249DEC_C78C_30E7_41E5_216A7FF83E0E_pt_0_2.jpg
+imlevel_DB549812_C79C_DF23_41B9_920B52CA6CE3.url = media/popup_DB33F1A7_C79C_7161_41E3_885EBB8378E2_pt_0_0.jpg
+imlevel_DB54A812_C79C_DF23_41B9_3F98EFDCC8C3.url = media/popup_DB33F1A7_C79C_7161_41E3_885EBB8378E2_pt_0_1.jpg
+imlevel_DB54B812_C79C_DF23_41E6_1B61AE0D8261.url = media/popup_DB33F1A7_C79C_7161_41E3_885EBB8378E2_pt_0_2.jpg
+imlevel_DB40752F_C79C_D160_41E5_1B1425E77BE3.url = media/popup_DB376B04_C784_5120_41E1_67DB7053D2E7_pt_0_0.jpg
+imlevel_DB5F852F_C79C_D160_41D2_17D0AA937836.url = media/popup_DB376B04_C784_5120_41E1_67DB7053D2E7_pt_0_1.jpg
+imlevel_DB5F9530_C79C_D160_41BD_5C7832128D54.url = media/popup_DB376B04_C784_5120_41E1_67DB7053D2E7_pt_0_2.jpg
+imlevel_DB40B539_C79C_D160_41DA_3AE378AFE365.url = media/popup_DB509A67_C785_F3E1_41DA_7FA4E341573F_pt_0_0.jpg
+imlevel_DB41C539_C79C_D160_41CB_417060D5F618.url = media/popup_DB509A67_C785_F3E1_41DA_7FA4E341573F_pt_0_1.jpg
+imlevel_DB41D539_C79C_D160_41D1_22AF1DE1AC77.url = media/popup_DB509A67_C785_F3E1_41DA_7FA4E341573F_pt_0_2.jpg
+imlevel_DB569755_C79C_D121_41B2_325DE656A96D.url = media/popup_DB5C0AD9_C78C_3321_41A6_0230C70CB647_pt_0_0.jpg
+imlevel_DB56A755_C79C_D121_41D6_DB9EBCFA6A99.url = media/popup_DB5C0AD9_C78C_3321_41A6_0230C70CB647_pt_0_1.jpg
+imlevel_DB56B756_C79C_D123_418D_23F85DF1D199.url = media/popup_DB5C0AD9_C78C_3321_41A6_0230C70CB647_pt_0_2.jpg
+imlevel_DB5D95EB_C79C_D0E1_41D0_C71CBA9D11A7.url = media/popup_DB8FF945_C784_D121_41AE_931215540B96_pt_0_0.jpg
+imlevel_DB5DA5EB_C79C_D0E1_41E3_310B0D923CFB.url = media/popup_DB8FF945_C784_D121_41AE_931215540B96_pt_0_1.jpg
+imlevel_DB5DB5EC_C79C_D0E7_41DA_F7EEED09F835.url = media/popup_DB8FF945_C784_D121_41AE_931215540B96_pt_0_2.jpg
+imlevel_DB4A327A_C79C_D3E3_41E6_F00652BC37E3.url = media/popup_DC00B9F3_C7BC_30E1_41E5_F9B970743234_pt_0_0.jpg
+imlevel_DB4A427B_C79C_D3E1_41DC_42DA7950BF2E.url = media/popup_DC00B9F3_C7BC_30E1_41E5_F9B970743234_pt_0_1.jpg
+imlevel_DB4A627B_C79C_D3E4_41CF_3AF3D31C2F77.url = media/popup_DC00B9F3_C7BC_30E1_41E5_F9B970743234_pt_0_2.jpg
+imlevel_DB4D712E_C79C_D163_41E7_5FC71DEAB9FC.url = media/popup_DC129364_C7BC_31E0_41E1_D000678112C3_pt_0_0.jpg
+imlevel_DB4C812E_C79C_D163_41B0_29F7B61FBC46.url = media/popup_DC129364_C7BC_31E0_41E1_D000678112C3_pt_0_1.jpg
+imlevel_DB70012F_C79C_D161_41E8_59B0436E9A8D.url = media/popup_DC129364_C7BC_31E0_41E1_D000678112C3_pt_0_2.jpg
+
+### Popup Image
+
+### Title
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_0.label = 1 (1)
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_9.label = 10
+photo_DAC104A2_C784_5763_41D3_EE0A89FD8CBB.label = 11
+photo_DAC104A2_C784_5763_41D3_EE0A89FD8CBB.label = 11
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_10.label = 12
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_11.label = 13
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_1.label = 2 (1)
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_2.label = 3 (1)
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_3.label = 4 (1)
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_4.label = 5 (1)
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_5.label = 6
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_6.label = 7 (1)
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_7.label = 8 (1)
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB_8.label = 9 (1)
+panorama_CBEB0062_C686_248A_41E2_24998B7A7874.label = Abertura
+panorama_CA8C1A29_C686_2486_41A2_36FB32511086.label = Entrada
+album_D99D6682_C784_3323_41C2_402A0732C2F4_1.label = IMG_0106
+panorama_CA8323CB_C686_2B9A_41C2_03144F677789.label = Mural 1
+panorama_CA83CD7E_C686_1F7A_418E_5AECB90555B8.label = Mural 2
+panorama_D164CE16_C7BC_5323_41D9_B1B330D09AED.label = Mural 3
+panorama_D1BD7709_C77E_2C86_41CE_05468E1D97C5.label = Mural 4
+panorama_D079815A_C786_64BA_41E2_126CE280CF60.label = Mural 5
+album_DB49AFB9_C7BC_3161_41A1_E85BD6A961BB.label = Photo Album 1 (1)
+album_D99D6682_C784_3323_41C2_402A0732C2F4.label = Photo Album idolo
+album_D1A6C34A_C682_649B_41DD_A993A56E11D0.label = Photo Album prato
+album_DD3B83F3_C78C_F0E1_41E3_01A620DF40DF.label = Photo Album urna2
+album_D3A54CD3_C686_3D89_41E2_69C638062930.label = Photo Album urna5
+album_D99D6682_C784_3323_41C2_402A0732C2F4_2.label = QR-code-idolo
+panorama_D998570B_C79C_3121_41E0_D384CF7A9536.label = Sala 2
+panorama_CA8210F5_C686_E589_41E0_569C60B74FF4.label = Urna
+album_D99D6682_C784_3323_41C2_402A0732C2F4_0.label = idolo
+album_D1A6C34A_C682_649B_41DD_A993A56E11D0_0.label = prato
+album_DD3B83F3_C78C_F0E1_41E3_01A620DF40DF_0.label = urna2
+album_DD3B83F3_C78C_F0E1_41E3_01A620DF40DF_1.label = urna4
+album_D3A54CD3_C686_3D89_41E2_69C638062930_0.label = urna5
+album_DD3B83F3_C78C_F0E1_41E3_01A620DF40DF_2.label = urnatupi
+
+## Skin
+
+### Label
+Label_DF76D674_C7FC_73E7_41DB_ACF3B03A7FA5.text = 0/3
+Label_DE68352A_C79C_7163_41DF_6FFB1CACC467.text = 1/3
+Label_DD7C9A1B_C7FC_D321_41E6_2695A6BB112C.text = 2/3
+Label_DD05A7E4_C7FC_D0E7_41E1_51E5923B36FD.text = 3/3
+Label_DF0E7577_C7FC_D1E1_41DE_7A7EBFB9D729.text = Questões respondidas:
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 8
